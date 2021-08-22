@@ -1,0 +1,4 @@
+name: "Appender"
+main: "net.oblivious.appender.Appender"
+version: "1.0"
+author: "Oblivious"
